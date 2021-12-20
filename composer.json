@@ -1,0 +1,16 @@
+{
+    "name": "livramatheus/phpunit_test",
+    "autoload": {
+        "psr-4": {
+            "Livramatheus\\PhpunitTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "livramateus"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}

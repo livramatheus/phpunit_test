@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\PlayerTest::testGetAge":3,"GameTest::testEndGame":3,"GameTest::testNewGameWithoutPlayer":3,"GameTest::testScore":3},"times":{"Tests\\PlayerTest::testGetAge":0,"GameTest::testEndGame":0.021,"GameTest::testFullGame":0.01,"GameTest::testNewGameWithoutPlayer":0.002,"GameTest::testScore":0.001,"GameTest::testKills":0}}
